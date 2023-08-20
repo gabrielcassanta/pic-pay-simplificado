@@ -1,8 +1,7 @@
 # pic-pay-simplificado
 Solving a challenge for a backend job at picpay.
 
-Just for study.
-
+## THIS REPOSITORY WAS ONLY CREATED FOR STUDY, NEVER SENT FOR PIC PAY.
 
 # Desafio Back-end PicPay
 
